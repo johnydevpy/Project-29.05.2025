@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|e:\\software engineering\\project-29.05.2025\\studentmanagementsystem\\studentmanagementsystem\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|e:\\software engineering\\project-29.05.2025\\studentmanagementsystem\\studentmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|e:\\software engineering\\project-29.05.2025\\studentmanagementsystem\\studentmanagementsystem\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|e:\\software engineering\\project-29.05.2025\\studentmanagementsystem\\studentmanagementsystem\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|e:\\software engineering\\project-29.05.2025\\studentmanagementsystem\\studentmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|e:\\software engineering\\project-29.05.2025\\studentmanagementsystem\\studentmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|e:\\software engineering\\project-29.05.2025\\studentmanagementsystem\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|e:\\software engineering\\project-29.05.2025\\studentmanagementsystem\\studentmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Data\\Migrations\\20250529050936_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagementSystem\\Data\\Migrations\\20250529050936_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|e:\\software engineering\\project-29.05.2025\\studentmanagementsystem\\studentmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|e:\\software engineering\\project-29.05.2025\\studentmanagementsystem\\studentmanagementsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|e:\\software engineering\\project-29.05.2025\\studentmanagementsystem\\studentmanagementsystem\\studentmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C8F180B-A206-445A-8A1B-B9F1BD959B46}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\studentmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentManagementSystem\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T05:42:17.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StudentManagementSystem\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T05:32:13.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Views\\Student\\Create.cshtml",
+              "ToolTip": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "StudentManagementSystem\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T05:31:30.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentManagementSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T05:29:56.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Program.cs",
+              "ToolTip": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T05:29:38.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T05:11:41.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T05:11:20.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250529050936_init.cs",
+              "DocumentMoniker": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Data\\Migrations\\20250529050936_init.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Data\\Migrations\\20250529050936_init.cs",
+              "ToolTip": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Data\\Migrations\\20250529050936_init.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Data\\Migrations\\20250529050936_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T05:09:36.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\appsettings.json",
+              "ToolTip": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\appsettings.json",
+              "RelativeToolTip": "StudentManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T05:07:30.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T05:06:45.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Models\\Student.cs",
+              "ToolTip": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:59:32.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentManagementSystem",
+              "DocumentMoniker": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\StudentManagementSystem.csproj",
+              "ToolTip": "E:\\Software Engineering\\Project-29.05.2025\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
+              "RelativeToolTip": "StudentManagementSystem\\StudentManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T04:56:21.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

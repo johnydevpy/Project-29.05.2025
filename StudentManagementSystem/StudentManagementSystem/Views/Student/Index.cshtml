@@ -1,0 +1,89 @@
+﻿@model IEnumerable<StudentManagementSystem.Models.Student>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Student List</h1>
+@{
+    var SuccessMessage = TempData["SuccessMessage"] as string;
+}
+@if (!string.IsNullOrEmpty(SuccessMessage))
+{
+    <script>
+        alert("@SuccessMessage");
+    </script>
+}
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@if(!Model.Any())
+{
+    <dib style="color:white">
+
+        No Record Found
+
+    </dib>
+
+}
+else
+{
+    <table class="table talbe-bordered table-striped">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.StudentName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.RollNo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AdmissionDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SectionNo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.BatchNo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.StudentPicture)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StudentName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.RollNo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AdmissionDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SectionNo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BatchNo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StudentPicture)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
