@@ -10,6 +10,7 @@ A brief description of what this project does and who it's for.
 - Feature 1
 - Feature 2
 - Feature 3
+- Feature 4
 
 ## 🛠️ Technologies Used
 
